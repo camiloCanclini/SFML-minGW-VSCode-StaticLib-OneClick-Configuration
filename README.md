@@ -1,2 +1,6 @@
 # SFML-minGW-VSCode-StaticLib-OneClick-Configuration2
 Hello everyone! i upload this repository as a backup and as a snapshoot of this "journey" :,D. Ok...well...you should be thinking, "What did you do? What happend? Why are you so cute?", for can you understand keep in mind that... i was 4 days without sleep for this problem, and because i am patient and capricious person :). I had a problem with the library SFML for c++. This library in principle doesn't run with Visual Studio Code, and usually it is installed in Visual Studio Community. Well... i dont like this last one :)... So decided to modify the VSC to run this beautifull library. And i couldn´t. But after 4 days without sleep i get the solution :D. Basically y modified the json c++  configuration to integrate the files of the library, and second problem i was... The button of run code didnt run the .exe. So i modified it too. And now i have the complete integration of this library with my VSCode. take it like a template for projects with SFML. I hope this repository can help some poor soul. :D
+
+*💀IMPORTANT-WARNING💀*
+
+You problaly must to change the paths of the library, likes the "Includes paths", or on the contrary these configuration wont work.
